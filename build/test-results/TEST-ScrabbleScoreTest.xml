@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<testsuite name="ScrabbleScoreTest" tests="1" skipped="0" failures="1" errors="0" timestamp="2015-09-29T17:31:17" hostname="epicodus-112.local" time="0.002">
+<testsuite name="ScrabbleScoreTest" tests="1" skipped="0" failures="1" errors="0" timestamp="2015-09-29T19:34:35" hostname="epicodus-112.local" time="0.003">
   <properties/>
-  <testcase name="scrabbleScore_returnsAScrabbleScoreForALetter_1" classname="ScrabbleScoreTest" time="0.002">
+  <testcase name="scrabbleScore_returnsAScrabbleScoreForALetter_1" classname="ScrabbleScoreTest" time="0.003">
     <failure message="java.lang.AssertionError: expected:&lt;1&gt; but was:&lt;&gt;" type="java.lang.AssertionError">java.lang.AssertionError: expected:&lt;1&gt; but was:&lt;&gt;
 	at org.junit.Assert.fail(Assert.java:88)
 	at org.junit.Assert.failNotEquals(Assert.java:834)
